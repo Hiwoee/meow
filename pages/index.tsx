@@ -2,11 +2,11 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "Hiwo";
-const belowLink = "kill youreslf";
+const name = "iconicmurph";
+const belowLink = "";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const servername = "Made by tragic";
+const servername = "Murphy's Tavern";
 
 export default function Home() {
   return (
@@ -181,6 +181,17 @@ export default function Home() {
                           </div>
                         </div>
                       </div>
+                      <span className="absolute right-2 text-zinc-600 transition-all">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 20 20"
+                                    fill="currentColor"
+                                    aria-hidden="true"
+                                    className="h-4 w-8"
+                                  >
+                                    <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
+                                  </svg>
+                                </span>
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
@@ -342,17 +353,6 @@ export default function Home() {
                                     </span>
                                   </div>
                                 </div>
-                                <span className="absolute right-2 text-zinc-600 transition-all">
-                                  <svg
-                                    xmlns="http://www.w3.org/2000/svg"
-                                    viewBox="0 0 20 20"
-                                    fill="currentColor"
-                                    aria-hidden="true"
-                                    className="h-4 w-8"
-                                  >
-                                    <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
-                                  </svg>
-                                </span>
                               </span>
                             </div>
                           </a>
