@@ -132,7 +132,13 @@ export default function Home() {
                           fill="#E60023"
                           xmlns="http://www.w3.org/2000/svg"
                         >
-                          <img src="/assets/kofi.png"></img>
+                          <Image
+                    className="h-64 w-64 rounded-full border-4 border-solid border-primary bg-primary object-cover"
+                    src="/profile.png"
+                    alt="kofi"
+                    width={100}
+                    height={100}
+                  />
                           <title>Ko-fi</title>
                         </svg>
                       </a>
