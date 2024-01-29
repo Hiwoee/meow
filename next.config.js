@@ -45,8 +45,8 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/pinterest',
-        destination: 'https://id.pinterest.com/romanromannya',
+        source: '/ko-fi',
+        destination: 'https://ko-fi.com/iconicmurph',
         permanent: true,
       },
       {
