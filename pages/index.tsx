@@ -126,19 +126,13 @@ export default function Home() {
                         href="/ko-fi"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
-                        <img
-                         src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"
-                         alt="Buy me a coffee"
-                         height="36"
-                         border="0"
-                        />
                         <svg
                           className="text-red h-6 transition-all"
                           viewBox="0 0 32 32"
                           fill="#E60023"
                           xmlns="http://www.w3.org/2000/svg"
                         >
-                          <path d=""></path>
+                          <img src="/assets/kofi.png"></img>
                           <title>Ko-fi</title>
                         </svg>
                       </a>
