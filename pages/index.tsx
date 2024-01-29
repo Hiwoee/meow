@@ -3,7 +3,7 @@ import Image from "next/image";
 import Banners from "../components/Banner";
 
 const name = "iconicmurph";
-const belowLink = "";
+const belowLink = "coems";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
 const servername = "Murphy's Tavern";
