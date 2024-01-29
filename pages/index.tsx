@@ -123,7 +123,7 @@ export default function Home() {
                       <a
                         rel="noopener noreferrer nofollow"
                         target="_blank"
-                        href="/pinterest"
+                        href="/ko-fi"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
@@ -133,28 +133,7 @@ export default function Home() {
                           xmlns="http://www.w3.org/2000/svg"
                         >
                           <path d="M16.132 0a16 16 0 0 0-5.771 30.952c-.13-1.312-.262-3.148 0-4.6l1.836-8a5.771 5.771 0 0 1-.525-2.361c0-2.23 1.312-3.935 2.885-3.935s1.967 1.05 1.967 2.23-.918 3.4-1.312 5.377.787 2.885 2.36 2.885 4.984-3.016 4.984-7.344-2.754-6.558-6.69-6.558-7.082 3.54-7.082 7.082c0 1.312.525 2.885 1.18 3.672a.525.525 0 0 1 .131.393l-.393 1.836c-.13.262-.262.393-.525.262-1.967-.918-3.28-3.803-3.28-6.164 0-4.984 3.672-9.705 10.623-9.705s9.836 3.935 9.836 9.18-3.54 9.968-8.263 9.968c-1.574 0-3.148-.787-3.672-1.836l-1.05 3.803c-.393 1.443-1.312 3.148-1.967 4.197A16 16 0 1 0 16.132 0z"></path>
-                          <title>Pinterest</title>
-                        </svg>
-                      </a>
-                      <a
-                        rel="noopener noreferrer nofollow"
-                        target="_blank"
-                        href="/patreon"
-                        className="h-6 fill-current text-primary transition-all dark:text-gray-200"
-                      >
-                        <svg
-                          width="800"
-                          height="800"
-                          viewBox="0 -4.5 256 256"
-                          fill="#ffffff"
-                          xmlns="http://www.w3.org/2000/svg"
-                          className="h-6 w-6"
-                        >
-                          <path
-                            d="M45.1355837,0 L45.1355837,246.35001 L0,246.35001 L0,0 L45.1355837,0 Z M163.657111,0 C214.65668,0 256,41.3433196 256,92.3428889 C256,143.342458 214.65668,184.685778 163.657111,184.685778 C112.657542,184.685778 71.3142222,143.342458 71.3142222,92.3428889 C71.3142222,41.3433196 112.657542,0 163.657111,0 Z"
-                            fill="#FF424D"
-                          ></path>
-                          <title>Patreon</title>
+                          <title>Ko-fi</title>
                         </svg>
                       </a>
                       <div className="flex items-center">
