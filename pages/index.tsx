@@ -174,9 +174,9 @@ export default function Home() {
             <div className="flex items-center justify-center rounded-full bg-primary bg-opacity-90 text-xs font-medium text-banner">
               <footer>
                 <div className="container mx-auto text-center">
-                  Made by TRAGIC in BOGOR
+                  Made by iconicmurph
                   <p className="text-gray text-s">
-                    © 2023 L RMN. All rights reserved.
+                    © 2077 L RMN. All rights reserved.
                   </p>
                 </div>
               </footer>
