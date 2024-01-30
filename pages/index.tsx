@@ -129,7 +129,7 @@ export default function Home() {
                         <svg
                           className="text-red h-6 transition-all"
                           viewBox="0 0 24 24"
-                          fill="#000000"
+                          fill="white"
                           xmlns="http://www.w3.org/2000/svg"
         
                         >
