@@ -26,7 +26,7 @@
 
     return (
       <>
-         <Script
+       <Script
         src="https://www.googletagmanager.com/gtag/js?id=G-JVJ7735WX9"
         strategy="afterInteractive"
       />
