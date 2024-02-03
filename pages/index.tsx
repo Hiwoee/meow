@@ -4,6 +4,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 import "../styles/globals.css";
 
+import { NextSeo } from "next-seo";
 import Head from "next/head";
 import Script from "next/script";
 
@@ -43,6 +44,9 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Script>
 
       <Analytics />
+
+      <NextSeo
+      />
 
       <Head>
         <link rel="icon" type="image/png" href="/favicon.png" />
